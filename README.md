@@ -1,3 +1,9 @@
+# Reference: Hailo
+
+# Siyi A2 Example
+```sh
+python basic_pipelines/detection.py -i rtsp://192.168.144.25:8554/main.264
+```
 
 ![Banner](doc/images/hailo_rpi_examples_banner.png)
 
